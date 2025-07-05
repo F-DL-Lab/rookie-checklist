@@ -4,7 +4,7 @@
 - **必装软件**  
   - Python/Conda环境配置（附常用包清单）  
   - PyTorch/TensorFlow的GPU版安装指南（含CUDA版本对照表）  
-  - VS Code/Cursor远程开发配置（SSH连接服务器教程）  
+  - VS Code/Pycharm/Cursor远程开发配置（SSH连接服务器教程）  
   - 科学上网工具（简要说明代理设置，不涉及敏感细节）  
 
 - **效率工具**  
