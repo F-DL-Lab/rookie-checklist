@@ -9,8 +9,7 @@
 
 - **效率工具**  
   - Git基础命令（克隆、提交、分支管理）  
-  - GitHub协作流程（Fork→PR→Code Review）  
-  - 截图软件 pixpin
+  - GitHub协作流程（Fork→PR→Code Review）
   - 电脑文件查询 listary
   - markdown编辑器 
 
